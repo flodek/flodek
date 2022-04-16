@@ -8,12 +8,6 @@
 <!--
 **flodek/flodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-  <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Heart-shaped_Ukrainian_flag.svg">
-</p>
-
-![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Heart-shaped_Ukrainian_flag.svg)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
