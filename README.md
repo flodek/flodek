@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Peace_dove_ukraine1.png">
+</p>
+
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Heart-shaped_Ukrainian_flag.svg)
 
 <!--
 **flodek/flodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
